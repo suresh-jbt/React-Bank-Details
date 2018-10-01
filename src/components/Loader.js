@@ -10,7 +10,6 @@ class Indicator extends Component {
 
   render() {
     const {loader} = this.props;
-    console.log('loader', loader);
     return (
       <div>
         {
